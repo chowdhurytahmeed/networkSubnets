@@ -8,9 +8,9 @@ p1First = '130.87.81.1'
 p1Last = '130.87.81.254'
 
 #problem 2
-p2Network = '41.72.43.16'
+p2Network = '41.72.43.0'
 p2Broadcast = '41.72.43.31'
-p2First = '41.72.43.17'
+p2First = '41.72.43.1'
 p2Last = '41.72.43.30'
 
 #problem 3
